@@ -21,7 +21,7 @@
 </tr>
 <tr>
 <td><strong>Tools</strong></td>
-<td>Git, VSCode, Linux Terminal, Figma, Postman</td>
+<td>Git, VSCode, Linux Terminal</td>
 </tr>
 <tr>
 <td><strong>Focus</strong></td>
