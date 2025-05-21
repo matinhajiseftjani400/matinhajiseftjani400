@@ -17,7 +17,7 @@
 <table>
 <tr>
 <td><strong>Languages</strong></td>
-<td>Python, C++, C, Java, PHP, HTML, CSS, JavaScript</td>
+<td>Python, C, C++, Java, PHP, HTML, CSS, JavaScript</td>
 </tr>
 <tr>
 <td><strong>Tools</strong></td>
