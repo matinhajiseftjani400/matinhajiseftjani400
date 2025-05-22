@@ -13,21 +13,13 @@
 
 ---
 
-### 🔧 Tech Stack:
-<table>
-<tr>
-<td><strong>Languages</strong></td>
-<td>Python, C, C++, Java, PHP, HTML, CSS, JavaScript</td>
-</tr>
-<tr>
-<td><strong>Tools</strong></td>
-<td>Git, VSCode, Linux Terminal</td>
-</tr>
-<tr>
-<td><strong>Focus</strong></td>
-<td>Backend development, problem solving, and writing maintainable code</td>
-</tr>
-</table>
+<h2>My Skills and Tools :</h2>
+
+<h2>My Skills and Tools :</h2>
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,bash,arduino,androidstudio,html,css,js,php,vscode&perline=6" />
+
+<hr />
 
 ---
 
