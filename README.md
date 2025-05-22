@@ -13,7 +13,7 @@
 
 ---
 
-<h2>My Skills and Tools :</h2>
+<h2>⚙️ My Skills and Tools :</h2>
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,bash,arduino,androidstudio,html,css,js,php,vscode&perline=6" />
 
