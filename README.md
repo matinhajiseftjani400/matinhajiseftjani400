@@ -35,7 +35,7 @@
 
 ---
 
-<h2>How to reach me :</h2>
+<h2>📞 How to contact me :</h2>
 
 <a href="https://www.instagram.com/matinhajiseftjani400" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
 <a href="https://t.me/matinhajiseftjani400" target="_blank" style="display: block; width: 48px; height: 48px;"><img src="./Images/telegram.png" alt="Telegram" /></a>
