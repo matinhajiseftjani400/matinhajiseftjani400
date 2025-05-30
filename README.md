@@ -40,7 +40,7 @@
 <a href="https://www.instagram.com/matinhajiseftjani.dev" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
 <a href="https://t.me/matinhajiseftjani400" target="_blank" style="display: block; width: 48px; height: 48px;"><img src="./Images/telegram.png" alt="Telegram" /></a>
 <a href="https://linkedin.com/in/matinhajiseftjani400" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" /></a>
-<a href="https://www.twitter.com/matinseftjani40" target="_blank" <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
+<a href="https://www.twitter.com/matinseftjani40" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
 <a href="mailto:m.matin.hajiseftjani@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
 
 <p align="center">
