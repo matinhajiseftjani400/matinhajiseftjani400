@@ -1,5 +1,4 @@
-<h1 align="center">Hey there, I'm Matin! 👋</h1>
-
+<h1 align="center"><strong>Hey there,<img src="wave.gif" alt="hi"  width=50 height=40 />   I'm Matin ! <strong/></h1>
 <p align="center">
   A passionate programmer who writes code with <strong>coffee</strong>, <em>chaos</em>, and <code>while(true)</code> energy.
 </p>
