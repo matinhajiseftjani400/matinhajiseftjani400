@@ -36,11 +36,11 @@
 
 <h2>📞 How to contact me :</h2>
 
-<a href="https://instagram.com/matin.development" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
-<a href="https://t.me/matinhajiseftjani400" target="_blank" style="display: block; width: 48px; height: 48px;"><img src="./Images/telegram.png" alt="Telegram" /></a>
+<a href="https://www.instagram.com/OfficialMatinDeveloper" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
+<a href="https://t.me/OfficialMatinDeveloper" target="_blank" style="display: block; width: 48px; height: 48px;"><img src="./Images/telegram.png" alt="Telegram" /></a>
 <a href="https://linkedin.com/in/matinhajiseftjani400" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" /></a>
-<a href="https://www.twitter.com/matinseftjani40" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
-<a href="mailto:matin.hajiseftjani@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
+<a href="https://x.com/Matinhsdev" target="_blank"><img src="img/X.png" alt="Twitter" /></a>
+<a href="mailto:matinhsdeveloper@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
 
 <p align="center">
   Built with focus. Running on caffeine.
