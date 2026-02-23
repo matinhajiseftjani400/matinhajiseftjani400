@@ -39,7 +39,7 @@
 <a href="https://www.instagram.com/OfficialMatinDeveloper" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
 <a href="https://t.me/OfficialMatinDeveloper" target="_blank" style="display: block; width: 48px; height: 48px;"><img src="./Images/telegram.png" alt="Telegram" /></a>
 <a href="https://linkedin.com/in/matinhajiseftjani400" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" /></a>
-<a href="https://x.com/Matinhsdev" target="_blank"><img src="img/X.png" alt="Twitter" /></a>
+<a href="https://x.com/Matinhsdev" target="_blank"><img src="Images/X.png" alt="Twitter" /></a>
 <a href="mailto:matinhsdeveloper@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
 
 <p align="center">
