@@ -39,12 +39,19 @@
 <a href="https://www.instagram.com/OfficialMatinDeveloper" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
 <a href="https://t.me/OfficialMatinDeveloper" target="_blank" style="display: block; width: 48px; height: 48px;"><img src="./Images/telegram.png" alt="Telegram" /></a>
 <a href="https://linkedin.com/in/matinhajiseftjani400" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" /></a>
-<a href="https://x.com/Matinhsdev" target="_blank">
+<a href="https://x.com/OfficialMatinDeveloper" target="_blank"
+   style="display:inline-flex;
+          align-items:center;
+          justify-content:center;
+          width:40px;
+          height:40px;
+          background:#000;
+          border-radius:10px;">
   <img 
-    src="https://img.icons8.com/ios-filled/50/ffffff/twitterx.png"
-    width="48"
-    style="background:#000;padding:10px;border-radius:14px;"
-  />
+    src="https://cdn.simpleicons.org/x/ffffff" 
+    width="22"
+    height="22"
+    style="display:block;">
 </a>
 <a href="mailto:matinhsdeveloper@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
 
